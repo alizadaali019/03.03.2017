@@ -1,0 +1,20 @@
+.nov{
+	width: 960px;
+	height: 960px;
+	margin: 0 auto;
+}
+.nov img{
+	width: 625px;
+	height: 370px;
+	margin: auto;
+}
+.nov .filter button{
+	width: 100px;
+	height: 20px;
+	float: left;
+	margin: 0 5px 0 0;
+	background: #CE9F0E;
+	display: inline-block;
+	text-align: center;
+	border-radius: 5px;
+}

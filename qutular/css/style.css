@@ -1,0 +1,21 @@
+.kvad{
+	width: 300px;
+	height: 300px;
+	background: red;
+}
+.yum{
+	width: 300px;
+	height: 300px;
+	background: blue;
+	border-radius: 100%;
+}
+.ucbucag{
+	width: 0px;
+	height: 0px;
+	border-left: 170px solid transparent;
+	border-bottom: 170px solid red;
+	border-right: 170px solid transparent;
+}
+button{
+	text-align: center;
+}
